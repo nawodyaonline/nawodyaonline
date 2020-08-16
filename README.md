@@ -34,7 +34,7 @@
 <br />
 <br />
 
-[website]: http://brainfix.cf/
+[website]: https://nawodyaonline.github.io/
 [twitter]: https://twitter.com/nawodya_online
 [instagram]: https://www.instagram.com/nawodya_jayalath/
 [linkedin]: https://www.linkedin.com/in/nawodya-jayalath-54415615a/
