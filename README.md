@@ -12,6 +12,8 @@
 
 ![Nawodya's github stats](https://github-readme-stats.vercel.app/api?username=nawodyaonline&show_icons=true&hide_border=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nawodyaonline&layout=compact)
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
