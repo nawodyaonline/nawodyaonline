@@ -5,10 +5,14 @@
 ![enter image description here](https://github.com/nawodyaonline/nawodyaonline/blob/master/coder.gif)
 
 - 🔭 I’m currently working on a [MERN Stack Course]!
+
 - 🌱 I’m currently learning everything 🤣
+
 - 👯 I’m looking to collaborate with other content creators
+
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play Cricket
+
+- ⚡ Fun fact: I love to play Cricket  I ❤️ 💻👨‍🎓👫🖥️
 
 ![Nawodya's github stats](https://github-readme-stats.vercel.app/api?username=nawodyaonline&show_icons=true&hide_border=true)
 
