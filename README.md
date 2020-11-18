@@ -2,6 +2,8 @@
 
 ## I'm a MERN Stack Developer, an Undergraduate Student!
 
+![enter image description here](https://github.com/nawodyaonline/nawodyaonline/blob/master/coder.gif)
+
 - 🔭 I’m currently working on a [MERN Stack Course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
