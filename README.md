@@ -4,7 +4,7 @@
 
 ![enter image description here](https://github.com/nawodyaonline/nawodyaonline/blob/master/coder.gif)
 
-- 🔭 I’m currently working on a [Flask Course]!
+- 🔭 I’m currently working on a [Django Course]!
 
 - 🌱 I’m currently learning everything 🤣
 
