@@ -12,7 +12,7 @@
 
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
-- ⚡ Fun fact: I love to play Cricket  I ❤️ 💻👨‍🎓👫🖥️
+- ⚡ Fun fact: I love to play Cricket  I ❤️ 💻👨‍🎓👫
 
 ![Nawodya's github stats](https://github-readme-stats.vercel.app/api?username=nawodyaonline&show_icons=true&hide_border=true)
 
