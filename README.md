@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact: I love to play Cricket  I ❤️ 💻👨‍🎓👫
 
-![Nawodya's github stats](https://github-readme-stats.vercel.app/api?username=nawodyaonline&show_icons=true&hide_border=true)
+![Nawodya's github stats](https://github-readme-stats.vercel.app/api?username=nawodyaonline&theme=dark&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nawodyaonline&layout=compact)
 
