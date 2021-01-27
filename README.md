@@ -2,7 +2,7 @@
 
 ## I'm a Web | Android Developer, an Undergraduate Student!
 
-![enter image description here](https://i.gifer.com/7zoR.gif)
+![enter image description here](https://media3.giphy.com/media/3ohhwtP66Yd58O3pII/giphy.gif)
 
 - 🔭 I’m currently working on a [Django Course]!
 
