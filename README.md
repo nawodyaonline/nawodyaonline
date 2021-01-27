@@ -2,7 +2,7 @@
 
 ## I'm a Web | Android Developer, an Undergraduate Student!
 
-![enter image description here](https://i.imgur.com/bPHcsTs.gif)
+![enter image description here](https://media1.tenor.com/images/6bf4a4058e6fc6aec8e43d8b30a64bf3/tenor.gif?itemid=15982849)
 
 - 🔭 I’m currently working on a [Django Course]!
 
