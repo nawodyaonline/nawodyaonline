@@ -2,7 +2,7 @@
 
 ## I'm a Web | Android Developer, an Undergraduate Student!
 
-![enter image description here](https://github.com/nawodyaonline/nawodyaonline/blob/master/coder.gif)
+![enter image description here](https://i.imgur.com/bPHcsTs.gif)
 
 - 🔭 I’m currently working on a [Django Course]!
 
