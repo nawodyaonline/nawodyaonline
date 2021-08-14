@@ -4,7 +4,7 @@
 
 ![enter image description here](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
-- 🔭 I’m currently working on a [Django Course]!
+- 🔭 I’m currently working on a [Angular Course]!
 
 - 🌱 I’m currently learning everything 🤣
 
