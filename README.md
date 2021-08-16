@@ -1,6 +1,7 @@
 ### Hi there, I'm Nawodya  👋
 
-## I'm a Web | Android Developer, an Undergraduate Student!
+## Software Developer - Intern👨🏿‍💻 Undergraduate | USJ ear_of_rice snowman_with_snowcricket_game💆🏾
+
 
 ![enter image description here](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
