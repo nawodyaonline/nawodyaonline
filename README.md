@@ -5,7 +5,7 @@
 
 ![enter image description here](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
-- 🔭 I’m currently working on a [Angular Course]!
+- 🔭 I’m currently working on a [Spring Boot Course]!
 
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
