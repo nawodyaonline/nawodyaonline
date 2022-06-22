@@ -1,6 +1,6 @@
 ### Hi there, I'm Nawodya  👋
 
-## Software Developer - Intern👨🏿‍💻 Undergraduate | USJ 🎓💆🏾
+## Trainee Software Engineer 👨🏿‍💻 Undergraduate | USJ 🎓💆🏾
 
 
 ![enter image description here](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
