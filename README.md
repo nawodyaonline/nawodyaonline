@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nawodya Jayalath</h1>
-<h3 align="center">A passionate software engineer from Sri Lanka</h3>
+<h3 align="center">A passionate associate software engineer from Sri Lanka</h3>
 
 
 ![enter image description here](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
