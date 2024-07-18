@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nawodya Jayalath</h1>
-<h3 align="center">A passionate associate software engineer from Sri Lanka</h3>
+<h3 align="center">A passionate Software engineer from Sri Lanka</h3>
 
 
 ![enter image description here](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 <p align="left"> <a href="https://twitter.com/nawodya_online" target="blank"><img src="https://img.shields.io/twitter/follow/nawodya_online?logo=twitter&style=for-the-badge" alt="nawodya_online" /></a> </p>
 
-- 🔭 I’m currently working on **Spring MVC Project**
+- 🔭 I’m currently working on **Spring Boot Project**
 
 - 🌱 I’m currently learning **Design patterns & Spring boot framework**
 
